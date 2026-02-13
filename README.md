@@ -67,7 +67,7 @@ Last updated: 24. Jan. 2026
 | [DiffusionDrive-temp](https://arxiv.org/abs/2411.15139)                                                                         |   77.68   |   52.72   | 2025 |   CVPR   |
 | [ORION](https://arxiv.org/abs/2503.19755)                                                                                       |   77.74   |   54.62   | 2025 |   ICCV   |
 | [SpaceDrive+](https://arxiv.org/abs/2512.10719)                                                                                 |   78.02   |   55.11   | 2025 |    -     |
-| [MindDrive](https://arxiv.org/abs/2512.13636)                                                                                   |  78.04    |   55.09   | 2025 |    -     |
+| [MindDrive](https://arxiv.org/abs/2512.13636)                                                                                   |   78.04   |   55.09   | 2025 |    -     |
 | [PGS](https://openreview.net/forum?id=PZqII8EoFG&referrer=%5Bthe%20profile%20of%20Yi%20Huang%5D(%2Fprofile%3Fid%3D~Yi_Huang20)) |   78.08   |   48.64   | 2025 | NeurIPS  |
 | [Expert-VADv2](https://arxiv.org/abs/2511.11740)                                                                                |   78.18   |   58.34   | 2025 |    -     |
 | [GaussianFusion](https://arxiv.org/abs/2506.00034)                                                                              |   79.10   |   54.40   | 2025 | NeurIPS  |
@@ -81,8 +81,9 @@ Last updated: 24. Jan. 2026
 | [HiP-AD](https://arxiv.org/abs/2503.08612)                                                                                      |   86.77   |   69.09   | 2025 |   ICCV   |
 | [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                 |   86.87   |   72.27   | 2025 |    -     |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                 |   87.1    |   71.4    | 2025 |    -     |
-| [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                 |    88.42   |   69.03   | 2025 |    -     |
-| [AlignDrive](https://arxiv.org/abs/2601.01762)                                                                                  |      89.07     |     73.18      | 2026 |    -     |
+| [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                 |   88.42   |   69.03   | 2025 |    -     |
+| [AlignDrive](https://arxiv.org/abs/2601.01762)                                                                                  |   89.07   |   73.18   | 2026 |    -     |
+| [SteerVLA](https://arxiv.org/abs/2602.08440)                                                                                  |     91     |     -     | 2026 |    -     |
 | [TFv6](https://arxiv.org/abs/2512.20563)                                                                                        | **95.28** | **86.81** | 2025 |    -     |
 | ---                                                                                                                             |    ---    |    ---    | ---  |   ---    |
 | *[Think2Drive](https://arxiv.org/abs/2402.16720)*                                                                               |  *91.85*  |  *85.41*  | 2024 |   ECCV   |
