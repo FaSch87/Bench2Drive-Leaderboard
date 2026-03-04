@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 13. Feb. 2026
+Last updated: 04. March. 2026
 
 ## Results:
 
@@ -52,6 +52,7 @@ Last updated: 13. Feb. 2026
 | [VDRive](https://arxiv.org/abs/2510.15446)                                                                                       |   66.25   |   50.51   | 2025 |    -     |
 | [RAP-ResNet](https://arxiv.org/abs/2510.04333)                                                                                   |   66.42   |   37.27   | 2026 |   ICLR   |
 | [CAPS](https://arxiv.org/abs/2503.01650)                                                                                         |   66.76   |   52.87   | 2025 |    -     |
+| [DriveMamba](https://arxiv.org/abs/2602.13301)                                                                                         |   66.82   |   37.73   | 2026 |   ICLR   |
 | [SNG](https://zhihua-hua.github.io/NavigationDrive-web/static/NavigationDrive.pdf)                                               |   67.17   |   35.90   | 2025 |    -     |
 | [Diffusion-Phy](https://www.sciencedirect.com/science/article/pii/S0031320326000245)                                             |   67.49   |   36.51   | 2026 |    PR    |
 | [DiffAD](https://arxiv.org/abs/2503.12170)                                                                                       |   67.92   |   38.64   | 2025 |    -     |
@@ -78,14 +79,15 @@ Last updated: 13. Feb. 2026
 | [TFM+void](https://doi.org/10.5324/zpjv0r03 )                                                                                    |   83.69   |   64.85   | 2025 |   NIK    |
 | [TF++](https://arxiv.org/abs/2412.09602)                                                                                         |   84.21   |   67.27   | 2024 |    -     |
 | [SimLingo](https://arxiv.org/abs/2503.09594)                                                                                     |   85.07   |   67.27   | 2025 |   CVPR   |
-| [R2SE](https://arxiv.org/abs/2506.09800)                                                                                         |   86.28   |   69.54   | 2026 |  PAMI  |
+| [R2SE](https://arxiv.org/abs/2506.09800)                                                                                         |   86.28   |   69.54   | 2026 |   PAMI   |
 | [HiP-AD](https://arxiv.org/abs/2503.08612)                                                                                       |   86.77   |   69.09   | 2025 |   ICCV   |
-| [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                  |   86.87   |   72.27   | 2026 |    ICLR     |
+| [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                  |   86.87   |   72.27   | 2026 |   ICLR   |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                  |   87.1    |   71.4    | 2025 |    -     |
+| [RaWMPC](https://arxiv.org/abs/2602.23259)                                                                                      |   88.31   |   70.48   | 2026 |    -     |
 | [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                      |   88.42   |   69.03   | 2025 |    -     |
 | [AlignDrive](https://arxiv.org/abs/2601.01762)                                                                                   |   89.07   |   73.18   | 2026 |    -     |
 | [SteerVLA](https://arxiv.org/abs/2602.08440)                                                                                  |     91     |     -     | 2026 |    -     |
-| [TFv6](https://arxiv.org/abs/2512.20563)                                                                                         | **95.28** | **86.81** | 2025 |    -     |
+| [TFv6](https://arxiv.org/abs/2512.20563)                                                                                         | **95.28** | **86.81** | 2026 |   CVPR   |
 | ---                                                                                                                              |    ---    |    ---    | ---  |   ---    |
 | *[Think2Drive](https://arxiv.org/abs/2402.16720)*                                                                                |  *91.85*  |  *85.41*  | 2024 |   ECCV   |
 | *[LEAD](https://arxiv.org/abs/2512.20563)*                                                                                       |  *96.78*  |  *96.59*  | 2025 |    -     |
