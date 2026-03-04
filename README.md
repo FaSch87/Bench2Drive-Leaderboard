@@ -90,5 +90,5 @@ Last updated: 04. March. 2026
 | [TFv6](https://arxiv.org/abs/2512.20563)                                                                                         | **95.28** | **86.81** | 2026 |   CVPR   |
 | ---                                                                                                                              |    ---    |    ---    | ---  |   ---    |
 | *[Think2Drive](https://arxiv.org/abs/2402.16720)*                                                                                |  *91.85*  |  *85.41*  | 2024 |   ECCV   |
-| *[LEAD](https://arxiv.org/abs/2512.20563)*                                                                                       |  *96.78*  |  *96.59*  | 2025 |    -     |
+| *[LEAD](https://arxiv.org/abs/2512.20563)*                                                                                       |  *96.78*  |  *96.59*  | 2026 |   CVPR   |
 | *[PDM-Lite](https://arxiv.org/abs/2312.14150)*                                                                                   |  *97.02*  |  *92.27*  | 2024 |   ECCV   |
